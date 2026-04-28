@@ -20,13 +20,17 @@ Comic & Buch Tracker – kostenlose Web-Apps zum Tracken deiner Sammlung.
 133 Bände in 3 Reihen – Bücher & Hörspiele.
 → https://mycollecto.github.io/drei-ausrufezeichen-tracker/
 
+### 🏛️ Asterix Tracker
+41 Bände der Hauptreihe tracken & kaufen.
+→ https://mycollecto.github.io/asterix-tracker/
+
 ---
 
 ## Features
 - 🖼️ Echte Cover
 - ✅ Abhaken mit Konfetti-Animation
-- 🛒 Amazon Affiliate Links
+- 🛒 Amazon Kaufen-Links
 - 💾 Fortschritt lokal gespeichert
 - 📱 PWA – auf Homescreen installierbar
 
-*Mehr Tracker in Planung: Asterix, Lucky Luke*
+*Mehr Tracker in Planung: Lucky Luke, TKKG*
